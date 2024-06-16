@@ -54,7 +54,7 @@
 
 ---
 
-## 1. Introducción
+## 1. 🌟 Introducción 🌟
 En este repositorio, presentamos una compilación detallada de diversos sistemas operativos, abordando aspectos clave como los requisitos de instalación, definiciones, imágenes, ventajas y desventajas, y una conclusión para cada uno. Este trabajo tiene como objetivo proporcionar una guía comprensiva y accesible para ayudar a usuarios y desarrolladores a entender mejor las características y requisitos de diferentes sistemas operativos.
 
 ---
