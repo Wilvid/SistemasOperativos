@@ -12,7 +12,7 @@
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Introducción](#1-introducción)
   - [2. Sistemas Operativos Comparados](#2-sistemas-operativos-comparados)
-    - [Windows](#windows)
+    - [Windows 8](#windows-8)
     - [MacOS](#macos)
     - [Ubuntu (Linux)](#ubuntu-linux)
   - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
@@ -31,7 +31,7 @@ El objetivo de este informe es comparar tres de los sistemas operativos más uti
 
 ## 2. Sistemas Operativos Comparados
 
-### Windows
+### Windows 8
 Windows es desarrollado por Microsoft y es uno de los sistemas operativos más populares en el mundo. Es conocido por su interfaz amigable y amplia compatibilidad con software y hardware.
 
 ### MacOS
