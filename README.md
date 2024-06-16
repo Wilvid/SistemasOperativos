@@ -11,7 +11,8 @@
 - [Informe Comparativo entre Varios Sistemas Operativos](#informe-comparativo-entre-varios-sistemas-operativos)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Introducción](#1-introducción)
-  - [2. Sistemas Operativos Comparados](#2-sistemas-operativos-comparados)
+  - [2. Objetivo](#2-objetivo)
+  - [3. Sistemas Operativos Comparados](#3-sistemas-operativos-comparados)
     - [Windows 8](#windows-8)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
@@ -23,8 +24,8 @@
     - [Android](#android)
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
-  - [3. Requisitos antes de la instalación](#3-requisitos-antes-de-la-instalacion)
-  - [4. Ventajas y Desventajas](#4-ventajas-y-desventajas)
+  - [4. Requisitos antes de la instalación](#4-requisitos-antes-de-la-instalacion)
+  - [5. Ventajas y Desventajas](#5-ventajas-y-desventajas)
     - [Windows 8](#windows-8)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
@@ -43,46 +44,136 @@
 ---
 
 ## 1. Introducción
+En este repositorio, presentamos una compilación detallada de diversos sistemas operativos, abordando aspectos clave como los requisitos de instalación, definiciones, imágenes, ventajas y desventajas, y una conclusión para cada uno. Este trabajo tiene como objetivo proporcionar una guía comprensiva y accesible para ayudar a usuarios y desarrolladores a entender mejor las características y requisitos de diferentes sistemas operativos.
 
-El objetivo de este informe es comparar tres de los sistemas operativos más utilizados en la actualidad: Windows, macOS y Ubuntu. Se analizarán sus ventajas, desventajas y características más relevantes para proporcionar una visión clara de cada uno y facilitar la elección del más adecuado según las necesidades del usuario.
+## 2. Objetivo
+Este proyecto está diseñado para ser una referencia útil tanto para usuarios novatos que buscan instalar un nuevo sistema operativo como para profesionales y entusiastas de la tecnología que desean comparar diferentes opciones. Esperamos que esta información te sea de gran utilidad y te ayude a tomar decisiones más informadas sobre tus elecciones de software y hardware.
 
-## 2. Sistemas Operativos Comparados
+## 3. Sistemas Operativos Comparados
 
 ### Windows 8
 Lanzado en 2012 por Microsoft, Windows 8 introdujo la interfaz "Metro" optimizada para pantallas táctiles, reemplazando el menú de inicio tradicional con mosaicos interactivos. Recibió críticas mixtas por sus cambios drásticos en la usabilidad.
 
-## Windows Server
+### Windows Server
 Serie de sistemas operativos de Microsoft para servidores, Windows Server ofrece características para gestión de redes, servicios web y plataformas empresariales, proporcionando soluciones robustas para entornos de TI.
 
-## Windows 11
+### Windows 11
 Windows 11, lanzado en 2021, presenta un rediseño de la interfaz con un menú de inicio centrado, Snap Layouts y compatibilidad con aplicaciones de Android, mejorando la productividad y la experiencia de usuario.
 
-## Ubuntu 20
+### Ubuntu 20
 Ubuntu 20.04, lanzado en abril de 2020, es una versión LTS enfocada en estabilidad y seguridad, con soporte hasta 2025. Incluye mejoras en GNOME, rendimiento optimizado y actualizaciones de seguridad regulares.
 
-## Ubuntu 24
+### Ubuntu 24
 Ubuntu 24.04, una futura versión LTS prevista para abril de 2024, traerá mejoras incrementales en estabilidad, seguridad y usabilidad, continuando la tradición de lanzamientos bien soportados de Canonical.
 
-## Kubuntu
+### Kubuntu
 Kubuntu es una variante de Ubuntu que usa KDE Plasma como entorno de escritorio, ofreciendo una apariencia elegante y altamente configurable, ideal para quienes prefieren un entorno visualmente atractivo.
 
-## Debian
+### Debian
 Debian, conocida por su estabilidad y comunidad de desarrollo, es una distribución de Linux que sirve de base para muchas otras, incluyendo Ubuntu. Es popular para servidores y sistemas críticos por su calidad y seguridad.
 
-## Red Hat
+### Red Hat
 Red Hat Enterprise Linux (RHEL) es una distribución comercial de Linux orientada a empresas, conocida por su robustez y soporte profesional, ofreciendo soluciones para servidores, virtualización y computación en la nube.
 
-## Android
+### Android
 Android es un sistema operativo móvil de Google basado en Linux, usado en smartphones y tablets. Es el más popular a nivel mundial debido a su flexibilidad, código abierto y amplia gama de aplicaciones.
 
-## Elementary OS
+### Elementary OS
 Elementary OS, basado en Ubuntu, es conocido por su diseño elegante y simplicidad. Con una interfaz inspirada en macOS, ofrece un entorno intuitivo y atractivo, ideal para usuarios que buscan una alternativa moderna y fácil de usar.
 
-## Linux Mint
+### Linux Mint
 Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y accesibilidad para nuevos usuarios. Con el entorno de escritorio Cinnamon, ofrece una experiencia cómoda y familiar, ideal para quienes migran desde Windows.
 
+## 4. Requisitos antes de la instalacion
 
-## 3. Ventajas y Desventajas
+### Windows 8
+- Procesador: 1 GHz o más rápido
+- RAM: 2 GB (se recomiendan 4 GB)
+- Espacio en disco duro: 20 GB (se recomiendan 32 GB)
+- Gráficos: DirectX 9 o posterior con WDDM 1.0 o posterior
+- Pantalla: resolución 1024x768 o superior
+
+### Windows Server
+- Procesador: 1,4 GHz o más rápido
+- RAM: 4 GB (se recomiendan 8 GB)
+- Espacio en disco duro: 32 GB (se recomiendan 64 GB)
+- Gráficos: DirectX 9 o posterior con WDDM 1.0 o posterior
+- Pantalla: resolución 1024x768 o superior
+
+
+### Windows 11
+- Procesador: 1 GHz o más rápido
+- RAM: 4 GB (se recomiendan 8 GB)
+- Espacio en disco duro: 64 GB (se recomiendan 128 GB)
+- Gráficos: DirectX 12 o posterior con WDDM 2.0 o posterior
+- Pantalla: 1080p (1920x1080) o resolución superior
+
+
+### Ubuntu 20
+- Procesador: 1 GHz o más rápido
+- RAM: 2 GB (se recomiendan 4 GB)
+- Espacio en disco duro: 10 GB (se recomiendan 20 GB)
+- Gráficos: OpenGL 2.1 o posterior
+- Pantalla: resolución 1024x768 o superior
+
+
+### Ubuntu 24
+- Procesador: 1 GHz o más rápido
+- RAM: 4 GB (se recomiendan 8 GB)
+- Espacio en disco duro: 20 GB (se recomiendan 40 GB)
+- Gráficos: OpenGL 3.0 o posterior
+- Pantalla: 1080p (1920x1080) o resolución superior
+
+
+### Kubuntu
+- Procesador: 1 GHz o más rápido
+- RAM: 2 GB (se recomiendan 4 GB)
+- Espacio en disco duro: 10 GB (se recomiendan 20 GB)
+- Gráficos: OpenGL 2.1 o posterior
+- Pantalla: resolución 1024x768 o superior
+
+
+### Debian
+- Procesador: 1 GHz o más rápido
+- RAM: 1 GB (se recomiendan 2 GB)
+- Espacio en disco duro: 5 GB (se recomiendan 10 GB)
+- Gráficos: OpenGL 2.1 o posterior
+- Pantalla: resolución 1024x768 o superior
+
+
+### Red Hat
+- Procesador: 1 GHz o más rápido
+- RAM: 2 GB (se recomiendan 4 GB)
+- Espacio en disco duro: 10 GB (se recomiendan 20 GB)
+- Gráficos: OpenGL 2.1 o posterior
+- Pantalla: resolución 1024x768 o superior
+
+
+### Android
+- Procesador: 1 GHz o más rápido
+- RAM: 1 GB (se recomiendan 2 GB)
+- Espacio en disco duro: 5 GB (se recomiendan 10 GB)
+- Gráficos: OpenGL ES 2.0 o posterior
+- Pantalla: resolución 480x800 o superior
+
+
+### Elementary OS
+- Procesador: 1 GHz o más rápido
+- RAM: 2 GB (se recomiendan 4 GB)
+- Espacio en disco duro: 10 GB (se recomiendan 20 GB)
+- Gráficos: OpenGL 2.1 o posterior
+- Pantalla: resolución 1024x768 o superior
+
+
+### Linux Mint
+Procesador: 1 GHz o más rápido
+RAM: 2 GB (se recomiendan 4 GB)
+Espacio en disco duro: 10 GB (se recomiendan 20 GB)
+Gráficos: OpenGL 2.1 o posterior
+Pantalla: resolución 1024x768 o superior
+
+
+## 5. Ventajas y Desventajas
 
 ### Windows
 
