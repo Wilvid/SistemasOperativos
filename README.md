@@ -1,4 +1,4 @@
-🌟#  Informe Comparativo entre Varios Sistemas Operativos
+#  🌟Informe Comparativo entre Varios Sistemas Operativos🌟
 
 **Curso:** Sistemas Operativos I
 
@@ -8,7 +8,7 @@
 
 ## Tabla de Contenidos
 
-- [Informe Comparativo entre Varios Sistemas Operativos](#informe-comparativo-entre-varios-sistemas-operativos)
+- [🌟Informe Comparativo entre Varios Sistemas Operativos🌟](#🌟informe-comparativo-entre-varios-sistemas-operativos🌟)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Introducción](#1-introducción)
   - [2. Objetivo](#2-objetivo)
