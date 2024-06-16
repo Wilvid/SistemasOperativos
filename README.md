@@ -23,7 +23,8 @@
     - [Android](#android)
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
-  - [3. Ventajas y Desventajas](#3-ventajas-y-desventajas)
+  - [3. Requisitos antes de la instalación](#3-requisitos-antes-de-la-instalacion)
+  - [4. Ventajas y Desventajas](#4-ventajas-y-desventajas)
     - [Windows 8](#windows-8)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
@@ -48,13 +49,38 @@ El objetivo de este informe es comparar tres de los sistemas operativos más uti
 ## 2. Sistemas Operativos Comparados
 
 ### Windows 8
-Windows es desarrollado por Microsoft y es uno de los sistemas operativos más populares en el mundo. Es conocido por su interfaz amigable y amplia compatibilidad con software y hardware.
+Lanzado en 2012 por Microsoft, Windows 8 introdujo la interfaz "Metro" optimizada para pantallas táctiles, reemplazando el menú de inicio tradicional con mosaicos interactivos. Recibió críticas mixtas por sus cambios drásticos en la usabilidad.
 
-### MacOS
-MacOS es el sistema operativo desarrollado por Apple para sus computadoras Mac. Es reconocido por su diseño elegante, alta integración con el ecosistema de Apple y su estabilidad.
+## Windows Server
+Serie de sistemas operativos de Microsoft para servidores, Windows Server ofrece características para gestión de redes, servicios web y plataformas empresariales, proporcionando soluciones robustas para entornos de TI.
 
-### Ubuntu (Linux)
-Ubuntu es una distribución de Linux basada en Debian, conocida por ser gratuita y de código abierto. Es apreciada por su seguridad, estabilidad y personalización.
+## Windows 11
+Windows 11, lanzado en 2021, presenta un rediseño de la interfaz con un menú de inicio centrado, Snap Layouts y compatibilidad con aplicaciones de Android, mejorando la productividad y la experiencia de usuario.
+
+## Ubuntu 20
+Ubuntu 20.04, lanzado en abril de 2020, es una versión LTS enfocada en estabilidad y seguridad, con soporte hasta 2025. Incluye mejoras en GNOME, rendimiento optimizado y actualizaciones de seguridad regulares.
+
+## Ubuntu 24
+Ubuntu 24.04, una futura versión LTS prevista para abril de 2024, traerá mejoras incrementales en estabilidad, seguridad y usabilidad, continuando la tradición de lanzamientos bien soportados de Canonical.
+
+## Kubuntu
+Kubuntu es una variante de Ubuntu que usa KDE Plasma como entorno de escritorio, ofreciendo una apariencia elegante y altamente configurable, ideal para quienes prefieren un entorno visualmente atractivo.
+
+## Debian
+Debian, conocida por su estabilidad y comunidad de desarrollo, es una distribución de Linux que sirve de base para muchas otras, incluyendo Ubuntu. Es popular para servidores y sistemas críticos por su calidad y seguridad.
+
+## Red Hat
+Red Hat Enterprise Linux (RHEL) es una distribución comercial de Linux orientada a empresas, conocida por su robustez y soporte profesional, ofreciendo soluciones para servidores, virtualización y computación en la nube.
+
+## Android
+Android es un sistema operativo móvil de Google basado en Linux, usado en smartphones y tablets. Es el más popular a nivel mundial debido a su flexibilidad, código abierto y amplia gama de aplicaciones.
+
+## Elementary OS
+Elementary OS, basado en Ubuntu, es conocido por su diseño elegante y simplicidad. Con una interfaz inspirada en macOS, ofrece un entorno intuitivo y atractivo, ideal para usuarios que buscan una alternativa moderna y fácil de usar.
+
+## Linux Mint
+Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y accesibilidad para nuevos usuarios. Con el entorno de escritorio Cinnamon, ofrece una experiencia cómoda y familiar, ideal para quienes migran desde Windows.
+
 
 ## 3. Ventajas y Desventajas
 
