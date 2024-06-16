@@ -1,4 +1,4 @@
-#  🌟Informe Comparativo entre Varios Sistemas Operativos🌟
+#  Informe Comparativo entre Varios Sistemas Operativos
 
 **Curso:** Sistemas Operativos I
 
@@ -8,7 +8,7 @@
 
 ## Tabla de Contenidos
 
-- [🌟 Informe Comparativo entre Varios Sistemas Operativos 🌟](#🌟-informe-comparativo-entre-varios-sistemas-operativos-🌟)
+- [Informe Comparativo entre Varios Sistemas Operativos](#informe-comparativo-entre-varios-sistemas-operativos)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Introducción](#1-introducción)
   - [2. Objetivo](#2-objetivo)
@@ -54,7 +54,7 @@
 
 ---
 
-## 1. 🌟 Introducción 🌟
+## 1. Introducción 
 En este repositorio, presentamos una compilación detallada de diversos sistemas operativos, abordando aspectos clave como los requisitos de instalación, definiciones, imágenes, ventajas y desventajas, y una conclusión para cada uno. Este trabajo tiene como objetivo proporcionar una guía comprensiva y accesible para ayudar a usuarios y desarrolladores a entender mejor las características y requisitos de diferentes sistemas operativos.
 
 ---
