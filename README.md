@@ -1,4 +1,4 @@
-#  Informe Comparativo entre Varios Sistemas Operativos
+🌟#  Informe Comparativo entre Varios Sistemas Operativos
 
 **Curso:** Sistemas Operativos I
 
