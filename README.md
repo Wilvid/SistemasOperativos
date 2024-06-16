@@ -1,4 +1,4 @@
-# Informe Comparativo entre Varios Sistemas Operativos
+#  🌟 Informe Comparativo entre Varios Sistemas Operativos 🌟
 
 **Curso:** Sistemas Operativos I
 
@@ -25,6 +25,17 @@
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
   - [4. Requisitos antes de la instalación](#4-requisitos-antes-de-la-instalacion)
+    - [Windows 8](#windows-8)
+    - [Windows Server](#windows-server)
+    - [Windows 11](#windows-11)
+    - [Ubuntu 20](#ubuntu-20)
+    - [Ubuntu 24](#ubuntu-24)
+    - [Kubuntu](#kubuntu)
+    - [Debian](#debian)
+    - [Red Hat](#red-hat)
+    - [Android](#android)
+    - [Elementary OS](#elementary-os)
+    - [Linux Mint](#linux-mint)
   - [5. Ventajas y Desventajas](#5-ventajas-y-desventajas)
     - [Windows 8](#windows-8)
     - [Windows Server](#windows-server)
@@ -46,8 +57,12 @@
 ## 1. Introducción
 En este repositorio, presentamos una compilación detallada de diversos sistemas operativos, abordando aspectos clave como los requisitos de instalación, definiciones, imágenes, ventajas y desventajas, y una conclusión para cada uno. Este trabajo tiene como objetivo proporcionar una guía comprensiva y accesible para ayudar a usuarios y desarrolladores a entender mejor las características y requisitos de diferentes sistemas operativos.
 
+---
+
 ## 2. Objetivo
 Este proyecto está diseñado para ser una referencia útil tanto para usuarios novatos que buscan instalar un nuevo sistema operativo como para profesionales y entusiastas de la tecnología que desean comparar diferentes opciones. Esperamos que esta información te sea de gran utilidad y te ayude a tomar decisiones más informadas sobre tus elecciones de software y hardware.
+
+---
 
 ## 3. Sistemas Operativos Comparados
 
@@ -83,6 +98,8 @@ Elementary OS, basado en Ubuntu, es conocido por su diseño elegante y simplicid
 
 ### Linux Mint
 Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y accesibilidad para nuevos usuarios. Con el entorno de escritorio Cinnamon, ofrece una experiencia cómoda y familiar, ideal para quienes migran desde Windows.
+
+---
 
 ## 4. Requisitos antes de la instalacion
 
@@ -171,6 +188,8 @@ RAM: 2 GB (se recomiendan 4 GB)
 Espacio en disco duro: 10 GB (se recomiendan 20 GB)
 Gráficos: OpenGL 2.1 o posterior
 Pantalla: resolución 1024x768 o superior
+
+---
 
 
 ## 5. Ventajas y Desventajas
