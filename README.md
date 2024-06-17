@@ -416,7 +416,7 @@ Cada sistema operativo tiene características únicas que lo hacen adecuado para
 - Sitio Web oficial de ChatGPT. (n.d.). Recuperado de https://chatgpt.com
 - Pagina oficial de Groq. (n.d.). Recuperado de https://groq.com
 
-### Sistemas Operativos
+### SO
 - Sitio web oficial de Microsoft Windows. (n.d.). Recuperado de https://www.microsoft.com/windows
 - Documentación de Ubuntu. (n.d.). Recuperado de https://ubuntu.com/documentation
 - Sitio web de Debian. (n.d.). Recuperado de https://www.debian.org
