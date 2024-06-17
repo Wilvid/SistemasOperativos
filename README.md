@@ -123,6 +123,8 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 64 GB (se recomiendan 128 GB)
 - Gráficos: DirectX 12 o posterior con WDDM 2.0 o posterior
 - Pantalla: 1080p (1920x1080) o resolución superior
+[![Whats-App-Image-2024-06-16-at-8-49-27-PM.jpg](https://i.postimg.cc/MHNwyh2Z/Whats-App-Image-2024-06-16-at-8-49-27-PM.jpg)](https://postimg.cc/n94NxShN)
+[![Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg](https://i.postimg.cc/qRqWjjGN/Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg)](https://postimg.cc/9R3xfPK2)
 
 
 ### Ubuntu 20
@@ -131,6 +133,8 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
 - Gráficos: OpenGL 2.1 o posterior
 - Pantalla: resolución 1024x768 o superior
+[![Whats-App-Image-2024-06-16-at-8-48-35-PM.jpg](https://i.postimg.cc/bw6T38VR/Whats-App-Image-2024-06-16-at-8-48-35-PM.jpg)](https://postimg.cc/K1MBYX2K)
+[![Whats-App-Image-2024-06-16-at-8-48-54-PM.jpg](https://i.postimg.cc/5yNy7cRw/Whats-App-Image-2024-06-16-at-8-48-54-PM.jpg)](https://postimg.cc/CBXw52Y1)
 
 
 ### Ubuntu 24
@@ -139,6 +143,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 20 GB (se recomiendan 40 GB)
 - Gráficos: OpenGL 3.0 o posterior
 - Pantalla: 1080p (1920x1080) o resolución superior
+-  [![Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg](https://i.postimg.cc/pdG6hKtR/Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg)](https://postimg.cc/VStR2r6V)
 
 
 ### Kubuntu
@@ -155,7 +160,8 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 5 GB (se recomiendan 10 GB)
 - Gráficos: OpenGL 2.1 o posterior
 - Pantalla: resolución 1024x768 o superior
-
+[![Whats-App-Image-2024-06-16-at-8-47-42-PM.jpg](https://i.postimg.cc/Jzymz7Xy/Whats-App-Image-2024-06-16-at-8-47-42-PM.jpg)](https://postimg.cc/3kHzLTn7)
+[![Whats-App-Image-2024-06-16-at-8-47-59-PM.jpg](https://i.postimg.cc/BZymGqJ7/Whats-App-Image-2024-06-16-at-8-47-59-PM.jpg)](https://postimg.cc/PNWWWnp1)
 
 ### Red Hat
 - Procesador: 1 GHz o más rápido
@@ -171,6 +177,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 5 GB (se recomiendan 10 GB)
 - Gráficos: OpenGL ES 2.0 o posterior
 - Pantalla: resolución 480x800 o superior
+[![Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg](https://i.postimg.cc/gJMLPkRM/Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg)](https://postimg.cc/VrCkqwKM)
 
 
 ### Elementary OS
@@ -275,6 +282,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Bueno para hardware antiguo
 - Amplia gama de disponibilidad de software
 - Bueno para principiantes
+[![Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg](https://i.postimg.cc/50dD9FYs/Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg)](https://postimg.cc/HJz6BntM)
   
 #### Desventajas:
 
