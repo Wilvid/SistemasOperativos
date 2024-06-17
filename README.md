@@ -15,7 +15,7 @@
   - [1. Introducción](#1-introducción)
   - [2. Objetivo](#2-objetivo)
   - [3. Sistemas Operativos Comparados](#3-sistemas-operativos-comparados)
-    - [Windows 8.](#windows-8-.)
+    - [Windows 8 .](#windows-8-.)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
     - [Ubuntu 20](#ubuntu-20)
@@ -68,7 +68,7 @@ Este proyecto está diseñado para ser una referencia útil tanto para usuarios 
 
 ## 3. Sistemas Operativos Comparados
 
-### Windows 8
+### Windows 8 .
 Lanzado en 2012 por Microsoft, Windows 8 introdujo la interfaz "Metro" optimizada para pantallas táctiles, reemplazando el menú de inicio tradicional con mosaicos interactivos. Recibió críticas mixtas por sus cambios drásticos en la usabilidad.
 
 ### Windows Server
