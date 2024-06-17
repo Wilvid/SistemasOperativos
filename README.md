@@ -152,6 +152,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
 - Gráficos: OpenGL 2.1 o posterior
 - Pantalla: resolución 1024x768 o superior
+  [![Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg](https://i.postimg.cc/50dD9FYs/Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg)](https://postimg.cc/HJz6BntM)
 
 
 ### Debian
@@ -177,7 +178,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 5 GB (se recomiendan 10 GB)
 - Gráficos: OpenGL ES 2.0 o posterior
 - Pantalla: resolución 480x800 o superior
-[![Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg](https://i.postimg.cc/gJMLPkRM/Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg)](https://postimg.cc/VrCkqwKM)
+- [![Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg](https://i.postimg.cc/gJMLPkRM/Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg)](https://postimg.cc/VrCkqwKM)
 
 
 ### Elementary OS
