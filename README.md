@@ -366,7 +366,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 | Característica      | Windows | Ubuntu | Debian | Red Hat | Android | Elementary OS | LInux Mint |
 |---------------------|---|---|---|---|---|---|---|
 | **Costo**           | 100-300 (Casa), 200-400 (Pro) | Gratis | Gratis | 300-1.000 (empresa) | Gratis | Gratis | Gratis |
-| **Interfaz**        | Gráfico, fácil de usar | Gráfico, fácil de usar| Línea de comandos basada en texto | Gráfico, fácil de usar | Gráfico, fácil de usar | Gráfico, fácil de usar| Gráfico, fácil de usar |
+| **Interfaz**        | Gráfico, fácil de usar | Línea de comandos basada en texto | Línea de comandos basada en texto | Gráfico, fácil de usar | Gráfico, fácil de usar | Gráfico, fácil de usar| Gráfico, fácil de usar |
 | **Compatibilidad**  | Alto | Alto | Alto | Alto | Alto | Alto | Alto |
 | **Seguridad**       | Altura media | Alto | Alto | Alto | Alto | Alto | Alto |
 | **Actualizaciones** | Regular | Regular | Regular | | | | |
