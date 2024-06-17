@@ -27,7 +27,7 @@
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
   - [4. Requisitos antes de la instalación](#4-requisitos-antes-de-la-instalacion)
-    - [Windows 8 - Configuración](#windows-8-Configuración)
+    - [Windows 8 - Configuración](#windows-8-configuración)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
     - [Ubuntu 20](#ubuntu-20)
