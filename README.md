@@ -363,16 +363,18 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 
 ## 6. Tabla Comparativa
 
-| Característica      | Windows                  | MacOS                    | Ubuntu (Linux)           |
-|---------------------|--------------------------|--------------------------|--------------------------|
-| **Costo**           | Licencia de pago         | Incluido con hardware Apple | Gratuito y de código abierto |
-| **Interfaz**        | Familiar y fácil de usar | Elegante y fácil de usar | Personalizable          |
-| **Compatibilidad**  | Alta con software y hardware | Moderada con software, baja con hardware no Apple | Moderada con software propietario |
-| **Seguridad**       | Vulnerable a malware     | Muy segura               | Muy segura               |
-| **Actualizaciones** | Frecuentes               | Periódicas               | Continuas                |
-| **Rendimiento**     | Requiere hardware potente| Optimizado para hardware Apple | Eficiente en hardware menos potente |
-| **Soporte**         | Amplio y variado         | Excelentes servicios de soporte de Apple | Comunidad activa        |
-
+| Característica      | Windows | Ubuntu | Debian | Red Hat | Android | Elementary OS | LInux Mint |
+|---------------------|---|---|---|---|---|---|---|
+| **Costo**           | 100-300 (Casa), 200-400 (Pro) | Gratis | Gratis | 300-1.000 (empresa) | Gratis | Gratis | Gratis |
+| **Interfaz**        | Gráfico, fácil de usar | Gráfico, fácil de usar| Línea de comandos basada en texto | Gráfico, fácil de usar | Gráfico, fácil de usar | Gráfico, fácil de usar| Gráfico, fácil de usar |
+| **Compatibilidad**  | Alto | Alto | Alto | Alto | Alto | Alto | Alto |
+| **Seguridad**       | Altura media | Alto | Alto | Alto | Alto | Alto | Alto |
+| **Actualizaciones** | Regular | Regular | Regular | | | | |
+| **Rendimiento**     | Alto | Alto |Alto | Alto | Alto | Alto | Alto |
+| **Soporte**         | Excelente | Excelente | Excelente | Excelente | Bien | Excelente | Excelente |
+| **Multitarea**      | Alto | Alto | Alto | Alto | Alto | Alto | Alto |
+| **Redes**           | Alto | Alto | Alto | Alto | Alto | Alto | Alto |
+| **Soporte**         | Alto | Alto | Alto | Alto | Medio | Alto | Alto |
 
 ## 7. Conclusión
 
