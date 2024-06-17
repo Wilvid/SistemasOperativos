@@ -27,29 +27,29 @@
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
   - [4. Requisitos antes de la instalación](#4-requisitos-antes-de-la-instalacion)
-    - [Windows 8](#windows-8)
-    - [Windows Server](#windows-server)
-    - [Windows 11](#windows-11)
-    - [Ubuntu 20](#ubuntu-20)
-    - [Ubuntu 24](#ubuntu-24)
-    - [Kubuntu](#kubuntu)
-    - [Debian](#debian)
-    - [Red Hat](#red-hat)
-    - [Android](#android)
-    - [Elementary OS](#elementary-os)
-    - [Linux Mint](#linux-mint)
+    - [-Windows 8](#windows-8)
+    - [-Windows Server](#windows-server)
+    - [-Windows 11](#windows-11)
+    - [-Ubuntu 20](#ubuntu-20)
+    - [-Ubuntu 24](#ubuntu-24)
+    - [-Kubuntu](#kubuntu)
+    - [-Debian](#debian)
+    - [-Red Hat](#red-hat)
+    - [-Android](#android)
+    - [-Elementary OS](#elementary-os)
+    - [-Linux Mint](#linux-mint)
   - [5. Ventajas y Desventajas](#5-ventajas-y-desventajas)
-    - [Windows 8](#windows-8)
-    - [Windows Server](#windows-server)
-    - [Windows 11](#windows-11)
-    - [Ubuntu 20](#ubuntu-20)
-    - [Ubuntu 24](#ubuntu-24)
-    - [Kubuntu](#kubuntu)
-    - [Debian](#debian)
-    - [Red Hat](#red-hat)
-    - [Android](#android)
-    - [Elementary OS](#elementary-os)
-    - [Linux Mint](#linux-mint)
+    - [>Windows 8](#windows-8)
+    - [>Windows Server](#windows-server)
+    - [>Windows 11](#windows-11)
+    - [>Ubuntu 20](#ubuntu-20)
+    - [>Ubuntu 24](#ubuntu-24)
+    - [>Kubuntu](#kubuntu)
+    - [>Debian](#debian)
+    - [>Red Hat](#red-hat)
+    - [>Android](#android)
+    - [>Elementary OS](#elementary-os)
+    - [>Linux Mint](#linux-mint)
   - [6. Tabla Comparativa](#6-tabla-comparativa)
   - [7. Conclusión](#7-conclusión)
   - [8. Referencias](#8-referencias)
@@ -105,14 +105,14 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 
 ## 4. Requisitos antes de la instalacion
 
-### Windows 8
+### -Windows 8
 - Procesador: 1 GHz o más rápido
 - RAM: 2 GB (se recomiendan 4 GB)
 - Espacio en disco duro: 20 GB (se recomiendan 32 GB)
 - Gráficos: DirectX 9 o posterior con WDDM 1.0 o posterior
 - Pantalla: resolución 1024x768 o superior
 
-### Windows Server
+### -Windows Server
 - Procesador: 1,4 GHz o más rápido
 - RAM: 4 GB (se recomiendan 8 GB)
 - Espacio en disco duro: 32 GB (se recomiendan 64 GB)
@@ -120,7 +120,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Pantalla: resolución 1024x768 o superior
 
 
-### Windows 11
+### -Windows 11
 - Procesador: 1 GHz o más rápido
 - RAM: 4 GB (se recomiendan 8 GB)
 - Espacio en disco duro: 64 GB (se recomiendan 128 GB)
@@ -130,7 +130,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - [![Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg](https://i.postimg.cc/qRqWjjGN/Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg)](https://postimg.cc/9R3xfPK2)
 
 
-### Ubuntu 20
+### -Ubuntu 20
 - Procesador: 1 GHz o más rápido
 - RAM: 2 GB (se recomiendan 4 GB)
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
@@ -141,7 +141,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - [![Whats-App-Image-2024-06-16-at-8-49-58-PM.jpg](https://i.postimg.cc/15xcwwZs/Whats-App-Image-2024-06-16-at-8-49-58-PM.jpg)](https://postimg.cc/grDZPwJT)
 
 
-### Ubuntu 24
+### -Ubuntu 24
 - Procesador: 1 GHz o más rápido
 - RAM: 4 GB (se recomiendan 8 GB)
 - Espacio en disco duro: 20 GB (se recomiendan 40 GB)
@@ -150,7 +150,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - [![Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg](https://i.postimg.cc/pdG6hKtR/Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg)](https://postimg.cc/VStR2r6V)
 
 
-### Kubuntu
+### -Kubuntu
 - Procesador: 1 GHz o más rápido
 - RAM: 2 GB (se recomiendan 4 GB)
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
@@ -159,7 +159,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - [![Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg](https://i.postimg.cc/50dD9FYs/Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg)](https://postimg.cc/HJz6BntM)
 
 
-### Debian
+### -Debian
 - Procesador: 1 GHz o más rápido
 - RAM: 1 GB (se recomiendan 2 GB)
 - Espacio en disco duro: 5 GB (se recomiendan 10 GB)
@@ -168,7 +168,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 [![Whats-App-Image-2024-06-16-at-8-47-42-PM.jpg](https://i.postimg.cc/Jzymz7Xy/Whats-App-Image-2024-06-16-at-8-47-42-PM.jpg)](https://postimg.cc/3kHzLTn7)
 [![Whats-App-Image-2024-06-16-at-8-47-59-PM.jpg](https://i.postimg.cc/BZymGqJ7/Whats-App-Image-2024-06-16-at-8-47-59-PM.jpg)](https://postimg.cc/PNWWWnp1)
 
-### Red Hat
+### -Red Hat
 - Procesador: 1 GHz o más rápido
 - RAM: 2 GB (se recomiendan 4 GB)
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
@@ -176,7 +176,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Pantalla: resolución 1024x768 o superior
 
 
-### Android
+### -Android
 - Procesador: 1 GHz o más rápido
 - RAM: 1 GB (se recomiendan 2 GB)
 - Espacio en disco duro: 5 GB (se recomiendan 10 GB)
@@ -185,7 +185,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - [![Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg](https://i.postimg.cc/gJMLPkRM/Whats-App-Image-2024-06-16-at-8-50-21-PM.jpg)](https://postimg.cc/VrCkqwKM)
 
 
-### Elementary OS
+### -Elementary OS
 - Procesador: 1 GHz o más rápido
 - RAM: 2 GB (se recomiendan 4 GB)
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
@@ -194,7 +194,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - [![Whats-App-Image-2024-06-16-at-9-53-54-PM.jpg](https://i.postimg.cc/Dz4WypYh/Whats-App-Image-2024-06-16-at-9-53-54-PM.jpg)](https://postimg.cc/sByfTmrH)
 
 
-### Linux Mint
+### -Linux Mint
 - Procesador: 1 GHz o más rápido
 - RAM: 2 GB (se recomiendan 4 GB)
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
@@ -207,7 +207,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 
 ## 5. Ventajas y Desventajas
 ---
-### Windows 8
+### >Windows 8
 ---
 #### Ventajas:
 
@@ -223,7 +223,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Puede ser lento y consumir muchos recursos
 ---
 ---
-### Windows Server
+### >Windows Server
 ---
 #### Ventajas:
 
@@ -239,7 +239,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - puede ser caro
 ---
 ---
-### Windows 11
+### >Windows 11
 ---
 #### Ventajas:
 
@@ -255,7 +255,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Disponibilidad limitada de software
 ---
 ---
-### Ubuntu 20
+### >Ubuntu 20
 ---
 #### Ventajas:
 
@@ -271,7 +271,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### Ubuntu 24
+### >Ubuntu 24
 ---
 #### Ventajas:
 
@@ -287,7 +287,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### Kubuntu
+### >Kubuntu
 ---
 #### Ventajas:
 
@@ -304,7 +304,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### Debian
+### >Debian
 ---
 #### Ventajas:
 
@@ -320,7 +320,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### Red Hat
+### >Red Hat
 ---
 #### Ventajas:
 
@@ -336,7 +336,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Puede ser caro
 ---
 ---
-### Android
+### >Android
 ---
 #### Ventajas:
 
@@ -352,7 +352,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Funciones de seguridad limitadas
 ---
 ---
-### Elementary OS
+### >Elementary OS
 ---
 #### Ventajas:
 
@@ -368,7 +368,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### Linux Mint
+### >Linux Mint
 ---
 #### Ventajas:
 
