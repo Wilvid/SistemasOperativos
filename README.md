@@ -1,14 +1,16 @@
-# Informe Comparativo entre Varios Sistemas Operativos 
+# > SISTEMAS OPERATIVOS <
 
 **Curso:** Sistemas Operativos I
 
 **Profesor:** Sebastián Aguilera Novoa
 
+**Estudiante:** William David Galeano Peña
+
 ---
 
 ## Tabla de Contenidos
 
-- [Informe Comparativo entre Varios Sistemas Operativos](#informe-comparativo-entre-varios-sistemas-operativos)
+- [> SISTEMAS OPERATIVOS <](#sistemas-operativos)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Introducción](#1-introducción)
   - [2. Objetivo](#2-objetivo)
@@ -50,6 +52,7 @@
     - [Linux Mint](#linux-mint)
   - [6. Tabla Comparativa](#6-tabla-comparativa)
   - [7. Conclusión](#7-conclusión)
+  - [8. Referencias](#8-referencias)
 
 ---
 
@@ -123,8 +126,8 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 64 GB (se recomiendan 128 GB)
 - Gráficos: DirectX 12 o posterior con WDDM 2.0 o posterior
 - Pantalla: 1080p (1920x1080) o resolución superior
-[![Whats-App-Image-2024-06-16-at-8-49-27-PM.jpg](https://i.postimg.cc/MHNwyh2Z/Whats-App-Image-2024-06-16-at-8-49-27-PM.jpg)](https://postimg.cc/n94NxShN)
-[![Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg](https://i.postimg.cc/qRqWjjGN/Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg)](https://postimg.cc/9R3xfPK2)
+- [![Whats-App-Image-2024-06-16-at-8-49-27-PM.jpg](https://i.postimg.cc/MHNwyh2Z/Whats-App-Image-2024-06-16-at-8-49-27-PM.jpg)](https://postimg.cc/n94NxShN)
+- [![Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg](https://i.postimg.cc/qRqWjjGN/Whats-App-Image-2024-06-16-at-8-49-38-PM.jpg)](https://postimg.cc/9R3xfPK2)
 
 
 ### Ubuntu 20
@@ -133,8 +136,9 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
 - Gráficos: OpenGL 2.1 o posterior
 - Pantalla: resolución 1024x768 o superior
-[![Whats-App-Image-2024-06-16-at-8-48-35-PM.jpg](https://i.postimg.cc/bw6T38VR/Whats-App-Image-2024-06-16-at-8-48-35-PM.jpg)](https://postimg.cc/K1MBYX2K)
-[![Whats-App-Image-2024-06-16-at-8-48-54-PM.jpg](https://i.postimg.cc/5yNy7cRw/Whats-App-Image-2024-06-16-at-8-48-54-PM.jpg)](https://postimg.cc/CBXw52Y1)
+- [![Whats-App-Image-2024-06-16-at-8-48-35-PM.jpg](https://i.postimg.cc/bw6T38VR/Whats-App-Image-2024-06-16-at-8-48-35-PM.jpg)](https://postimg.cc/K1MBYX2K)
+- [![Whats-App-Image-2024-06-16-at-8-48-54-PM.jpg](https://i.postimg.cc/5yNy7cRw/Whats-App-Image-2024-06-16-at-8-48-54-PM.jpg)](https://postimg.cc/CBXw52Y1)
+- [![Whats-App-Image-2024-06-16-at-8-49-58-PM.jpg](https://i.postimg.cc/15xcwwZs/Whats-App-Image-2024-06-16-at-8-49-58-PM.jpg)](https://postimg.cc/grDZPwJT)
 
 
 ### Ubuntu 24
@@ -143,7 +147,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 20 GB (se recomiendan 40 GB)
 - Gráficos: OpenGL 3.0 o posterior
 - Pantalla: 1080p (1920x1080) o resolución superior
--  [![Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg](https://i.postimg.cc/pdG6hKtR/Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg)](https://postimg.cc/VStR2r6V)
+- [![Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg](https://i.postimg.cc/pdG6hKtR/Whats-App-Image-2024-06-16-at-8-48-21-PM.jpg)](https://postimg.cc/VStR2r6V)
 
 
 ### Kubuntu
@@ -152,7 +156,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
 - Gráficos: OpenGL 2.1 o posterior
 - Pantalla: resolución 1024x768 o superior
-  [![Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg](https://i.postimg.cc/50dD9FYs/Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg)](https://postimg.cc/HJz6BntM)
+- [![Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg](https://i.postimg.cc/50dD9FYs/Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg)](https://postimg.cc/HJz6BntM)
 
 
 ### Debian
@@ -187,6 +191,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
 - Gráficos: OpenGL 2.1 o posterior
 - Pantalla: resolución 1024x768 o superior
+- [![Whats-App-Image-2024-06-16-at-9-53-54-PM.jpg](https://i.postimg.cc/Dz4WypYh/Whats-App-Image-2024-06-16-at-9-53-54-PM.jpg)](https://postimg.cc/sByfTmrH)
 
 
 ### Linux Mint
@@ -195,6 +200,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Espacio en disco duro: 10 GB (se recomiendan 20 GB)
 - Gráficos: OpenGL 2.1 o posterior
 - Pantalla: resolución 1024x768 o superior
+- [![Whats-App-Image-2024-06-16-at-10-03-47-PM.jpg](https://i.postimg.cc/BvdG4MRd/Whats-App-Image-2024-06-16-at-10-03-47-PM.jpg)](https://postimg.cc/1gcdKcmH)
 
 ---
 
@@ -385,8 +391,24 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 | **Redes**           | Alto | Alto | Alto | Alto | Alto | Alto | Alto |
 | **Soporte**         | Alto | Alto | Alto | Alto | Medio | Alto | Alto |
 
+---
+
 ## 7. Conclusión
 
-La elección del sistema operativo adecuado depende en gran medida de las necesidades específicas del usuario. Windows es ideal para aquellos que buscan compatibilidad y facilidad de uso general, macOS es perfecto para profesionales creativos y usuarios del ecosistema Apple, mientras que Ubuntu es la mejor opción para desarrolladores y entusiastas de la tecnología que valoran la seguridad y personalización.
+Cada sistema operativo tiene características únicas que lo hacen adecuado para diferentes necesidades y usuarios. Windows se destaca por su facilidad de uso y compatibilidad, ideal para entornos personales y empresariales. Las distribuciones de Linux, como Ubuntu, Debian y Red Hat, ofrecen mayor seguridad y personalización, siendo preferidas en servidores y ambientes de desarrollo. Android domina el mercado móvil por su flexibilidad. La elección del sistema operativo dependerá de los requisitos específicos de hardware, las necesidades de seguridad y las preferencias de usabilidad del usuario. Este análisis comparativo proporciona una guía útil para tomar decisiones informadas sobre la selección del sistema operativo adecuado.
 
-Cada sistema operativo tiene sus propias fortalezas y debilidades, y la decisión final debe basarse en una evaluación cuidadosa de las prioridades y requisitos personales.
+## 8. Referencias
+
+- Sitio web oficial de Microsoft Windows. (n.d.). Recuperado de https://www.microsoft.com/windows
+- Documentación de Ubuntu. (n.d.). Recuperado de https://ubuntu.com/documentation
+- Sitio web de Debian. (n.d.). Recuperado de https://www.debian.org
+- Red Hat Enterprise Linux Overview. (n.d.). Recuperado de https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+- Página oficial de Android. (n.d.). Recuperado de https://www.android.com
+- Elementary OS Documentation. (n.d.). Recuperado de https://elementary.io/docs
+- Linux Mint Official Website. (n.d.). Recuperado de https://linuxmint.com
+
+
+
+
+
+
