@@ -27,7 +27,7 @@
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
   - [4. Requisitos antes de la instalación](#4-requisitos-antes-de-la-instalacion)
-    - [Windows 8](#windows-8)
+    - [Windows 8 - Configuración](#windows-8-Configuración)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
     - [Ubuntu 20](#ubuntu-20)
@@ -105,7 +105,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 
 ## 4. Requisitos antes de la instalacion
 
-### Windows 8
+### Windows 8 - Configuración
 - Procesador: 1 GHz o más rápido
 - RAM: 2 GB (se recomiendan 4 GB)
 - Espacio en disco duro: 20 GB (se recomiendan 32 GB)
