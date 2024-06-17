@@ -289,7 +289,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Bueno para hardware antiguo
 - Amplia gama de disponibilidad de software
 - Bueno para principiantes
-[![Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg](https://i.postimg.cc/50dD9FYs/Whats-App-Image-2024-06-16-at-9-17-32-PM.jpg)](https://postimg.cc/HJz6BntM)
+  
   
 #### Desventajas:
 
@@ -372,13 +372,13 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Puede ser lento y consumir muchos recursos
 - Rendimiento de juego limitado
 
-### Tenga en cuenta que estos son pros y contras generales, y que la experiencia real puede variar según el caso de uso y el usuario específicos.
+- Tenga en cuenta que estos son pros y contras generales, y que la experiencia real puede variar según el caso de uso y el usuario específicos.
 
 ---
 
 ## 6. Tabla Comparativa
 
-| Característica      | Windows | Ubuntu | Debian | Red Hat | Android | Elementary OS | LInux Mint |
+| Característica      | Windows | Ubuntu | Debian | Red Hat | Android | Elementary OS | Linux Mint |
 |---------------------|---|---|---|---|---|---|---|
 | **Costo**           | 100-300 (Casa), 200-400 (Pro) | Gratis | Gratis | 300-1.000 (empresa) | Gratis | Gratis | Gratis |
 | **Interfaz**        | Gráfico, fácil de usar | Línea de comandos basada en texto | Línea de comandos basada en texto | Gráfico, fácil de usar | Gráfico, fácil de usar | Gráfico, fácil de usar| Gráfico, fácil de usar |
@@ -397,8 +397,15 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 
 Cada sistema operativo tiene características únicas que lo hacen adecuado para diferentes necesidades y usuarios. Windows se destaca por su facilidad de uso y compatibilidad, ideal para entornos personales y empresariales. Las distribuciones de Linux, como Ubuntu, Debian y Red Hat, ofrecen mayor seguridad y personalización, siendo preferidas en servidores y ambientes de desarrollo. Android domina el mercado móvil por su flexibilidad. La elección del sistema operativo dependerá de los requisitos específicos de hardware, las necesidades de seguridad y las preferencias de usabilidad del usuario. Este análisis comparativo proporciona una guía útil para tomar decisiones informadas sobre la selección del sistema operativo adecuado.
 
+---
+
 ## 8. Referencias
 
+### IA
+- Sitio Web oficial de ChatGPT. (n.d.). Recuperado de https://chatgpt.com
+- Pagina oficial de Groq. (n.d.). Recuperado de https://groq.com
+
+### Sistemas Operativos
 - Sitio web oficial de Microsoft Windows. (n.d.). Recuperado de https://www.microsoft.com/windows
 - Documentación de Ubuntu. (n.d.). Recuperado de https://ubuntu.com/documentation
 - Sitio web de Debian. (n.d.). Recuperado de https://www.debian.org
@@ -406,6 +413,7 @@ Cada sistema operativo tiene características únicas que lo hacen adecuado para
 - Página oficial de Android. (n.d.). Recuperado de https://www.android.com
 - Elementary OS Documentation. (n.d.). Recuperado de https://elementary.io/docs
 - Linux Mint Official Website. (n.d.). Recuperado de https://linuxmint.com
+
 
 
 
