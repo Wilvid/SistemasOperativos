@@ -27,7 +27,7 @@
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
   - [4. Requisitos antes de la instalación](#4-requisitos-antes-de-la-instalacion)
-    - [Windows 8.](#windows-8-.)
+    - [Windows 8.](#windows-8)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
     - [Ubuntu 20](#ubuntu-20)
@@ -207,7 +207,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 
 ## 5. Ventajas y Desventajas
 ---
-### >Windows 8
+### Windows 8
 ---
 #### Ventajas:
 
@@ -223,7 +223,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Puede ser lento y consumir muchos recursos
 ---
 ---
-### >Windows Server
+### Windows Server
 ---
 #### Ventajas:
 
@@ -239,7 +239,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - puede ser caro
 ---
 ---
-### >Windows 11
+### Windows 11
 ---
 #### Ventajas:
 
@@ -255,7 +255,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Disponibilidad limitada de software
 ---
 ---
-### >Ubuntu 20
+### Ubuntu 20
 ---
 #### Ventajas:
 
@@ -271,7 +271,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### >Ubuntu 24
+### Ubuntu 24
 ---
 #### Ventajas:
 
@@ -287,7 +287,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### >Kubuntu
+### Kubuntu
 ---
 #### Ventajas:
 
@@ -304,7 +304,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### >Debian
+### Debian
 ---
 #### Ventajas:
 
@@ -320,7 +320,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### >Red Hat
+### Red Hat
 ---
 #### Ventajas:
 
@@ -336,7 +336,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Puede ser caro
 ---
 ---
-### >Android
+### Android
 ---
 #### Ventajas:
 
@@ -352,7 +352,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Funciones de seguridad limitadas
 ---
 ---
-### >Elementary OS
+### Elementary OS
 ---
 #### Ventajas:
 
@@ -368,7 +368,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 - Rendimiento de juego limitado
 ---
 ---
-### >Linux Mint
+### Linux Mint
 ---
 #### Ventajas:
 
