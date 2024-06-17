@@ -369,7 +369,7 @@ Linux Mint, basado en Ubuntu y Debian, es conocido por su facilidad de uso y acc
 | **Interfaz**        | Gráfico, fácil de usar | Línea de comandos basada en texto | Línea de comandos basada en texto | Gráfico, fácil de usar | Gráfico, fácil de usar | Gráfico, fácil de usar| Gráfico, fácil de usar |
 | **Compatibilidad**  | Alto | Alto | Alto | Alto | Alto | Alto | Alto |
 | **Seguridad**       | Altura media | Alto | Alto | Alto | Alto | Alto | Alto |
-| **Actualizaciones** | Regular | Regular | Regular | | | | |
+| **Actualizaciones** | Regular | Regular | Regular | Regular | Regular | Regular | Regular |
 | **Rendimiento**     | Alto | Alto |Alto | Alto | Alto | Alto | Alto |
 | **Soporte**         | Excelente | Excelente | Excelente | Excelente | Bien | Excelente | Excelente |
 | **Multitarea**      | Alto | Alto | Alto | Alto | Alto | Alto | Alto |
