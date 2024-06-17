@@ -10,7 +10,7 @@
 
 ## Tabla de Contenidos
 
-- [SISTEMAS OPERATIVOS](#sistemas-operativos)
+- [SISTEMAS OPERATIVOS](#🌟-sistemas-operativos-🌟)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Introducción](#1-introducción)
   - [2. Objetivo](#2-objetivo)
