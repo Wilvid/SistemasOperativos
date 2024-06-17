@@ -1,4 +1,4 @@
-# 🌟SISTEMAS OPERATIVOS 🌟
+# 🌟 SISTEMAS OPERATIVOS 🌟
 
 **Curso:** Sistemas Operativos I
 
