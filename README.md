@@ -39,7 +39,7 @@
     - [Elementary OS](#elementary-os)
     - [Linux Mint](#linux-mint)
   - [5. Ventajas y Desventajas](#5-ventajas-y-desventajas)
-    - [Windows 8](windows-8)
+    - [Windows 8](#windows-8)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
     - [Ubuntu 20](#ubuntu-20)
