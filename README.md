@@ -15,7 +15,7 @@
   - [1. Introducción](#1-introducción)
   - [2. Objetivo](#2-objetivo)
   - [3. Sistemas Operativos Comparados](#3-sistemas-operativos-comparados)
-    - [Windows 8 .](#windows-8-.)
+    - [Windows 8 .](#windows-8)
     - [Windows Server](#windows-server)
     - [Windows 11](#windows-11)
     - [Ubuntu 20](#ubuntu-20)
